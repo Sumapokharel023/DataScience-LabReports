@@ -23,7 +23,7 @@ Each question is implemented as a **separate Python program** for clarity and ea
 ## 📝 Questions and Code Links
 
 ### **Question 1: Sum of Two Numbers**
-📄 **File:** [`Lab1/q1.py`](Lab1/q1.py)  
+📄 **File:** Lab1/q1.py 
 Program that takes two numbers as input and prints their sum.
 
 ---
@@ -99,6 +99,7 @@ Checks army eligibility based on age and BMI criteria.
 ## 🚀 How to Run
 ```bash
 python filename.py
+
 
 
 
