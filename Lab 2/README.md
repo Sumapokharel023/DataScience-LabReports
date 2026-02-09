@@ -6,19 +6,6 @@ Each question is implemented as a separate Python program.
 
 ---
 
-## Folder Structure
-
-Lab2/
-├── README.md
-├── q1.py
-├── q2.py
-├── q3.py
-├── q4.py
-├── q5.py
-└── q6.py
-
----
-
 ## Questions and Code Links
 
 ### Question 1: Movie Ratings Analyzer
@@ -91,4 +78,5 @@ The program:
 - Takes a path input from the user (e.g., `["A", "C", "D"]`)  
 - Checks whether each consecutive step is connected  
 - Prints **"Valid path"** or **"Invalid path"**  
+
 
