@@ -6,9 +6,6 @@ Each question is implemented as a separate Python program.
 
 ---
 
-
----
-
 ## Questions and Code Links
 
 ### Question 1: Basic File Read and Write
@@ -59,5 +56,6 @@ The program provides a menu-driven interface to:
 - Read data from a file  
 - Append data to a file  
 - Handle invalid user input and file-related errors using exception handling  
+
 
 
